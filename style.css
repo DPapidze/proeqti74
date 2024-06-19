@@ -1,0 +1,12 @@
+.d1{
+    width: 218px;
+    height: 218px;
+    background-color: red;
+    float: left;
+}
+.d2{
+    width: 218px;
+    height: 218px;
+    float: right;
+    background-color: blue;
+}
